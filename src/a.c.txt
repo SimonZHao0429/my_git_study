@@ -11,3 +11,9 @@ void Debug_printf()
 {
 	printf();
 }
+
+
+int menu(void)
+{
+	return 1;
+}
