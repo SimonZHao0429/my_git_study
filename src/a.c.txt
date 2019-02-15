@@ -1,7 +1,13 @@
 #include <a.h>
 
-
+extern void Debug_printf();
 void main()
 {
-	
+	Debug_printf();
+}
+
+
+void Debug_printf()
+{
+	printf();
 }
