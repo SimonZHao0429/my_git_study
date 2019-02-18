@@ -1,1 +1,6 @@
 this is main function file
+
+void main(void)
+{
+	test();
+}
