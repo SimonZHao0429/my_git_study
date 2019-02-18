@@ -1,4 +1,0 @@
-int open_camera(int open_way)
-{
-	
-}
