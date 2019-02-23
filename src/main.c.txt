@@ -19,3 +19,4 @@ commit1
 master add 1
 bug_fix1 add 1
 bug_fix1 add 2
+bug_fix1 add 3
