@@ -22,3 +22,4 @@ bug_fix1 add 2
 master add 3
 
 zhaochengbo add 1
+Manager commit: 1
